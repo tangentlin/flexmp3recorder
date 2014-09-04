@@ -1,0 +1,8 @@
+/* CSS file */
+@namespace s "library://ns.adobe.com/flex/spark";
+@namespace ui "ui.*";
+
+ui|RecorderControl
+{
+	skinClass: ClassReference("skins.RecorderControlSkin");
+}
